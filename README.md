@@ -11,7 +11,7 @@ The research is being conducted as part of my MSc in Biomedical Engineering at t
 The project involves designing and investigating a compact microwave resonator for potential use in fracture monitoring.
 
 <p align="center">
-  <img src="resonator_prototype.png" alt="Physical FractureSense resonator prototype and measurement setup" width="500">
+  <img src="resonator_prototype.png" alt="Physical resonator prototype and measurement setup" width="500">
 </p>
 
 <p align="center">
