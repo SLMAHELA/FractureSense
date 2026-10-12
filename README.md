@@ -4,7 +4,16 @@
 
 FractureSense is an ongoing research project exploring microwave-based sensing for non-invasive monitoring of changes in bone fracture angles. The project investigates whether changes in the electromagnetic response of a resonator can provide useful information about fracture-angle variations.
 
-The research is being conducted as part of my MSc in Biomedical Engineering at the University of Oulu, Finland.
+The research is being conducted as part of my MSc in Biomedical Engineering at the University of Oulu, Finland.  
+## Resonator Prototype
+
+<p align="center">
+  <img src="resonator_design.png" alt="FractureSense microwave resonator prototype" width="500">
+</p>
+
+<p align="center">
+  <em>Physical resonator prototype for microwave-based bone fracture-angle monitoring.</em>
+</p>
 
 ## Problem
 
